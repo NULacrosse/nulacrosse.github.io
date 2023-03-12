@@ -1,6 +1,5 @@
 # nulacrosse.github.io
 
-(toc)
 - [Tasks](#Tasks)
 - [Links](#Links)
 
